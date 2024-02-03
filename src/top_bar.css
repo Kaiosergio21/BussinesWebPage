@@ -1,0 +1,81 @@
+
+header{
+
+  color: white;
+    background-color: #333;
+    font-size: large;
+  
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+
+align-items: center;
+
+padding: 20px;
+
+width: 82rem;
+  
+  
+ 
+ 
+}
+
+
+
+
+.inicio{
+  
+  color: aliceblue;
+}
+
+.logo{
+
+  display: absolute;
+  position: relative;
+  left: 15px;
+  height: 100px;
+  width: 110px;
+}
+
+.sobre{
+
+  color:white;
+}
+
+
+
+.menu{
+
+   display:flex;
+
+   
+
+
+  
+}
+
+menu:hover{
+
+  color:aqua;
+}
+
+
+.menu li {
+
+    margin-left: 2rem;
+    margin-right:9rem;
+    cursor:pointer;
+    padding:2px;
+    
+    color:aliceblue;
+
+}
+
+.menu li:hover{
+
+ color:aqua;
+  
+
+}
+

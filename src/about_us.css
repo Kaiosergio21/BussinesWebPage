@@ -1,0 +1,32 @@
+#sobre{
+
+    display: absolute;
+    position: relative;
+    top: 150px;
+    left: 20px;
+}
+
+
+
+.text{
+
+    
+    display: absolute;
+    position: relative;
+    top: 30px;
+    left: 2px;
+    width: 700px;
+}
+
+.meet{
+
+display: absolute;
+position:relative;
+
+left: 750px;
+bottom:170px;
+width: 500px; /* Set the desired width */
+height: auto; /* Maintain aspect ratio */
+
+
+}
